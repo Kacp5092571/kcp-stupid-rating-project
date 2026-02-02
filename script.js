@@ -5,6 +5,6 @@ document.getElementById("p2").style.display = "none";
 document.getElementById("p3").style.display = "none";
 let you=1
 while(you === 1){
-    alert('HOW DARE YOU')
+    confirm('HOW DARE YOU')
 }
 }
