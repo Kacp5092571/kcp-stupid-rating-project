@@ -5,5 +5,9 @@ document.getElementById("p2").innerHTML = "boo";
 document.getElementById("p3").innerHTML = "boo";
 }
 function alerttt(){
-    alert('alert7uuu')
+    alert('hi')
+}
+function compl(){
+    hovering1()
+    alerttt()
 }
