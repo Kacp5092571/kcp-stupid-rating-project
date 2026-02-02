@@ -3,11 +3,7 @@ document.getElementById("img1").src ="https://kacp5092571.github.io/kcp-stupid-r
 document.getElementById("p1").innerHTML = "boo";
 document.getElementById("p2").innerHTML = "boo";
 document.getElementById("p3").innerHTML = "boo";
-
-{
-    alert('hi')
 }
-while(you === 1){
-    confirm('HOW DARE YOU')
-}
+function alerttt(){
+    alert('alert7uuu')
 }
