@@ -9,5 +9,7 @@ function alerttt(){
 }
 function compl(){
     hovering1()
-    alerttt()
+    if (true){
+    alerttt()    
+    }
 }
